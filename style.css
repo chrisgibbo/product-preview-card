@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500&family=Montserrat:wght@500;700&display=swap');
+
 body {
     margin: 0;
     padding: 0;
@@ -16,7 +18,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 600px;
+    width: 500px;
     background-color: white;
     border-radius: 10px;
 }
@@ -24,4 +26,15 @@ body {
 .image {
     max-width: 50%;
     border-radius: 10px 0px 0px 10px;
+}
+
+.text-card {
+    padding: 0 20px;
+}
+
+.title {
+    font-size: 15px;
+    margin-top: -20px;
+    color: hsl(228, 12%, 48%);
+
 }
