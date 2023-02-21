@@ -18,6 +18,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    margin-bottom: -300px;
 }
 
 .card {
@@ -112,6 +113,12 @@ body {
     font-size: 8px;
     font-family: "Montserrat";
     font-weight: 500;
+}
+
+.attribution {
+    text-align: center;
+    font-family: "Montserrat";
+    font-size: 14px;
 }
 
 @media(max-width: 500px) {
