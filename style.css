@@ -107,3 +107,11 @@ body {
     color: var(--white);
     font-size: 10px;
 }
+
+@media(max-width: 375px) {
+    .card {
+        display: flexbox;
+        flex-direction: column;
+
+    }
+}
