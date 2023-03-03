@@ -27,6 +27,7 @@ body {
     background-color: var(--white);
     width: 500px;
     border-radius: 8px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 .image {
