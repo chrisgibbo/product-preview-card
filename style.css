@@ -105,6 +105,11 @@ span {
     gap: 10px;
     margin-top: -20px;
     margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.btn-cart:hover {
+    opacity: 0.7;
 }
 
 .cart-img {
